@@ -1,0 +1,4 @@
+Hello Everyone!
+My goals for this project is to make
+a Minecraft Wrapper and Web-Gui to go 
+along with it.
